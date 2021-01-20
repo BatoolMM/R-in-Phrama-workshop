@@ -1,2 +1,2 @@
-# Template
-This is a template I created to be used when building packages.
+# R in Phrama Workshop
+The materials from R in phrama workshop for RStudio::Global 2021 Conf.
